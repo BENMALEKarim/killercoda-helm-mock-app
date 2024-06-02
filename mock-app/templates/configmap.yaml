@@ -6,3 +6,4 @@ metadata:
     app: {{ .Values.appName }}
 data:
   MESSAGE: {{ .Values.message }}
+  TEST: YRS

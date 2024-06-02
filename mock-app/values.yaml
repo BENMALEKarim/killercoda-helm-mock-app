@@ -1,6 +1,6 @@
 appName: mock-app
-message: "Interesting learning curve, keep going !"
+message: "Interesting learning curve, keep going ! You rock it"
 image:
   repository: benmalekarim/mock-app
-  tag: v1.0.0
+  tag: v1.1.0
 replicas: 2

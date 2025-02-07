@@ -1,5 +1,5 @@
 appName: mock-app
-message: "Interesting learning curve, keep going ! You rock it"
+message: "Test"
 image:
   repository: benmalekarim/mock-app-image-updater
   tag: v2.5.0-develop

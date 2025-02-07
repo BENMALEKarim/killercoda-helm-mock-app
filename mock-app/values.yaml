@@ -3,4 +3,5 @@ message: "Test"
 image:
   repository: benmalekarim/mock-app-image-updater
   tag: v2.5.0-develop
+  digest: "sha256:82dedc7cd18ac32624afab81f4af408b627c57d2eeeedcc940d871996fcc65d3"
 replicas: 2

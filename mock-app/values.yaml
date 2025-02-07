@@ -1,6 +1,4 @@
-appName: mock-app
 message: "Test"
 image:
-  repository: benmalekarim/mock-app-image-updater
   tag: v2.5.0-develop
 replicas: 2

@@ -3,5 +3,4 @@ message: "Best CoP ! "
 image:
   repository: benmalekarim/mock-app-image-updater
   tag: v2.5.0-develop
-  digest: sha256:42770012002e5b2f959753272c0cd0c88ab08277c2634d7b48908bb11153ca2e
 replicas: 2
